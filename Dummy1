@@ -1,0 +1,9 @@
+<FIELD name="Requirement Type" refname="MyCompany.Resolution" type="String">    
+<ALLOWEDVALUES>
+   <LISTITEM value="Project Management" />
+   <LISTITEM value="Pre Development" />
+   <LISTITEM value="Design" />
+   <LISTITEM value="Development" />
+   <LISTITEM value="Testing" />
+ </ALLOWEDVALUES>
+</FIELD>
